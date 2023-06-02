@@ -1,3 +1,8 @@
 This is a new text file
 
+<<<<<<< HEAD
 add a line
+=======
+ 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 
+
+>>>>>>> 87a5fc06110ce66bdfaca83375ab883d0315ee05
